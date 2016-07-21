@@ -1,0 +1,8 @@
+gwt.material.errai.table.client.local.factory.CustomCategoryFactory
+gwt.material.errai.table.client.local.widget.Main
+gwt.material.errai.table.client.shared.User
+gwt.material.errai.table.client.shared.DataHelper
+gwt.material.errai.table.client.local.renderer.CustomRenderer
+gwt.material.errai.table.client.local.Client
+gwt.material.errai.table.client.local.Table
+gwt.material.errai.table.client.local.factory.PersonRowFactory
